@@ -1,7 +1,5 @@
-# 💫 About Me:
-### Annyeong! 👋<br>
+## Annyeong! 👋
 ![gif](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWZ3MWc3MzU5eHljandvY3Y2eDNncjlvb2d3OGo3MXM0ZWN2dHQ0byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vlTOUkYTdJ1yAiywSl/giphy.gif)
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rafaeldimaass) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-dimas-cahyo-laksono-9b708b371/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@stuemfngh) 
